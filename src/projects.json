@@ -5,6 +5,7 @@
     "title": "EDH Power",
     "description": "description will go here",
     "technologies": "SQL Server, Next.js, Tailwind CSS",
-    "image": "EDH-power-preview.png"
+    "image": "EDH-power-preview.png",
+    "url": "https://edh-power.web.app/"
   }
 ]
