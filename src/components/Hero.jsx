@@ -1,7 +1,7 @@
 export default function Hero() {
   return (
     <section class="text-gray-700 body-font">
-      <div class="container px-5 py-24 mx-auto flex flex-wrap">
+      <div class="container px-5 py-12 mx-auto flex flex-wrap">
         <div class="lg:w-1/2 w-full mb-10 lg:mb-0 rounded-lg overflow-hidden">
           <img alt="Andrew Wilborn Head Shot" class="object-cover object-center h-full w-full" src="/AndrewWilbornHeadShot.jpg"/>
         </div>
