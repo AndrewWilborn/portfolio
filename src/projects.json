@@ -7,5 +7,14 @@
     "technologies": "SQL Server, Next.js, Tailwind CSS",
     "image": "EDH-power-preview.png",
     "url": "https://edh-power.web.app/"
+  },
+  {
+    "id": 1,
+    "category": "Full-Stack",
+    "title": "Online Multiplayer Connect 4",
+    "description": "A full stack application where two users can connect and play a game of connect 4 over the internet",
+    "technologies": "Material-UI, React.js, Firestore DB",
+    "image": "connect4Preview.png",
+    "url": "https://connect-4-ajw.web.app/"
   }
 ]
