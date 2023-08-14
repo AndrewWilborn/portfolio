@@ -1,7 +1,7 @@
 export default function Card({ project }) {
   return (
     <div className="flex flex-wrap -m-4">
-      <a href={project.url} target="_blank" rel="noopener">
+      <a href={project.url} target="_blank" rel="noreferrer">
         <div className="p-4 md:w-1/3">
           <div className="h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden">
             <img className="lg:h-48 md:h-36 w-full object-cover object-center" src={project.image} alt="blog" />
