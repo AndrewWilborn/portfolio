@@ -1,0 +1,10 @@
+[
+  {
+    "id": 0,
+    "category": "Full-Stack",
+    "title": "EDH Power",
+    "description": "description will go here",
+    "technologies": "SQL Server, Next.js, Tailwind CSS",
+    "image": ""
+  }
+]

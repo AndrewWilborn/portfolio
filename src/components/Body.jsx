@@ -1,10 +1,15 @@
 import Card from "./Card";
+import projects from "../projects.json"
 
 export default function Body() {
   return (
-    <section class="text-gray-700 body-font">
-      <div class="container px-5 py-6 mx-auto">
-        <Card />
+    <section className="text-gray-700 body-font">
+      <div className="container px-5 py-6 mx-auto">
+        {
+          projects.map(project => 
+            <Card project={project} key={project.id}/>
+          )
+        }
       </div>
     </section>
   )
