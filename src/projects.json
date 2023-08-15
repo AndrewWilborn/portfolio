@@ -23,7 +23,7 @@
     "title": "Coffee Menu",
     "description": "React application with useState that fetches data from sampleapis",
     "technologies": "React.js, CSS",
-    "image": "CoffeeImg.png",
+    "image": "coffeePreview.png",
     "url": "https://coffee-menu-ajw.web.app/"
   }
 ]
