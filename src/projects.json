@@ -22,8 +22,17 @@
     "category": "Front-End",
     "title": "Coffee Menu",
     "description": "React application with useState that fetches data from sampleapis",
-    "technologies": "React.js, CSS",
+    "technologies": "React.js, CSS, API Calls",
     "image": "coffeePreview.png",
     "url": "https://coffee-menu-ajw.web.app/"
+  },
+  {
+    "id": 3,
+    "category": "Front-End",
+    "title": "Prime Number Counter",
+    "description": "Counter app that lets you increment through prime numbers with React",
+    "technologies": "React.js, CSS, Prime Number Theory",
+    "image": "PrimeNumberPreview.png",
+    "url": "https://prime-number-counter-c11.web.app/"
   }
 ]
