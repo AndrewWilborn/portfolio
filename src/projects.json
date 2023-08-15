@@ -16,5 +16,14 @@
     "technologies": "Material-UI, React.js, Firestore DB",
     "image": "connect4Preview.png",
     "url": "https://connect-4-ajw.web.app/"
+  },
+  {
+    "id": 2,
+    "category": "Front-End",
+    "title": "Coffee Menu",
+    "description": "React application with useState that fetches data from sampleapis",
+    "technologies": "React.js, CSS",
+    "image": "CoffeeImg.png",
+    "url": "https://coffee-menu-ajw.web.app/"
   }
 ]
