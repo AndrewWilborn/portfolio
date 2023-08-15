@@ -3,7 +3,7 @@
     "id": 0,
     "category": "Full-Stack",
     "title": "EDH Power",
-    "description": "description will go here",
+    "description": "A full stack application that allows users to register Magic The Gathering decks to their account and then easily collect ratings from other players for their decks.",
     "technologies": "SQL Server, Next.js, Tailwind CSS",
     "image": "EDH-power-preview.png",
     "url": "https://edh-power.web.app/"
