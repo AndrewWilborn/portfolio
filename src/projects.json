@@ -15,7 +15,7 @@
     "description": "WIP, a full stack Minesweeper app that allows users to play Minesweeper.  All game logic is handled in the backend.",
     "technologies": "AngularJS, .NET API, SQL Server, Tailwind CSS",
     "image": "MinesweeperPreview.png",
-    "url": "https://minesweeper-ajw.web.app/"
+    "url": "https://ajw-minesweeper.web.app/"
   },
   {
     "id": 2,
