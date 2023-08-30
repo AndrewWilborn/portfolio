@@ -10,7 +10,7 @@ export default function Hero() {
             <div className="flex-grow">
               <h1 className="text-gray-900 text-5xl title-font font-medium mb-2">Andrew Wilborn</h1>
               <h2 className="text-indigo-500 text-2xl title-font font-medium mb-3">Software Engineer</h2>
-              <p className="leading-relaxed text-base mb-4">As a software engineer I'm always looking to learn new technologies.  At UCF I obtained a computer science degree and developed some excellent fundamentals as a coder, and at Boca Code I gained practical knowledge that has allowed me to apply those fundamentals with cutting edge technologies such as Next.js, Tailwind CSS and Express APIs.  I love working with APIs, SQL and JavaScript Frameworks and am always looking to expand my skillset.</p>
+              <p className="leading-relaxed text-base mb-4">As a software engineer I'm always looking to learn new technologies.  At UCF I obtained a computer science degree and developed some excellent fundamentals as a coder, and at Boca Code I gained practical knowledge that has allowed me to apply those fundamentals with cutting edge technologies such as Next.js, Tailwind CSS and Express APIs.  I have since gone on to teach myself .NET and Angular.  I love working with APIs, SQL and JavaScript Frameworks and am always looking to expand my skillset.</p>
               <a href="/Wilborn-Andrew-Resume.pdf" target="_blank" rel="noreferrer" className="py-2 px-4 bg-indigo-600 hover:bg-indigo-700 text-white w-full text-center text-base font-semibold shadow-md rounded-lg">
                 Resume
               </a>

@@ -11,6 +11,15 @@
   {
     "id": 1,
     "category": "Full-Stack",
+    "title": "Minesweeper",
+    "description": "WIP, a full stack Minesweeper app that allows users to play Minesweeper.  All game logic is handled in the backend.",
+    "technologies": "AngularJS, .NET API, SQL Server, Tailwind CSS",
+    "image": "MinesweeperPreview.png",
+    "url": "https://minesweeper-ajw.web.app/"
+  },
+  {
+    "id": 2,
+    "category": "Full-Stack",
     "title": "Online Multiplayer Connect 4",
     "description": "A full stack application where two users can connect and play a game of connect 4 over the internet",
     "technologies": "Material-UI, React.js, Firestore DB",
@@ -18,7 +27,7 @@
     "url": "https://connect-4-ajw.web.app/"
   },
   {
-    "id": 2,
+    "id": 3,
     "category": "Front-End",
     "title": "Coffee Menu",
     "description": "React application with useState that fetches data from sampleapis",
@@ -27,7 +36,7 @@
     "url": "https://coffee-menu-ajw.web.app/"
   },
   {
-    "id": 3,
+    "id": 4,
     "category": "Front-End",
     "title": "Prime Number Counter",
     "description": "Counter app that lets you increment through prime numbers with React",
